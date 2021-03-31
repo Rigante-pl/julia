@@ -1026,7 +1026,7 @@
       "uuid": "84567594-5ec1-48f4-bfaf-f6480a75c47e",
       "slug": "multiple-dispatch",
       "name": "Multiple Dispatch",
-      "blurb": "TODO: add blurb for multiple-dispatch concept"
+      "blurb": "Julia chooses which method of a function is called based on the types of all arguments."
     },
     {
       "uuid": "ac862fcd-90a1-404c-8f6d-ba42f2c813a4",
